@@ -6,12 +6,6 @@ body {
     /* overflow-x: hidden; */
 }
 
-.content-footer,
-.masthead-heading,
-.masthead-intro {
-  /* text-align: center; */
-}
-
 .masthead {
   display: flex;
   justify-content: space-around;
